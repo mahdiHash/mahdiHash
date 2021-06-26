@@ -8,7 +8,7 @@
 
 - i'm learning js to work with node.js, and not to be a front-end developer (i'm tooooo lazy for front)
 
-- the next languages i like to learn are python and golang, but when? who know? `\_(o_0)_/`
+- the next languages i like to learn are python and golang, but when? who knows? `\_(o_0)_/`
 
 - i'm looking for help with finding miniprojects for practice, although i think when i learn more this will be solved  
 (but seriously: find some practice for beck-end is much harder than front)
