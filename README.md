@@ -1,16 +1,22 @@
-### Hi there 👋
+### hey folks :D
 
-<!--
-**mahdiHashemi14/mahdiHashemi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- i'm now working on nothing special. maybe it's because i'm still learning to code
 
-Here are some ideas to get you started:
+- i'm really interested in open source projects and love to contribute to them :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- the current language i'm learning is **javascript**
+
+- i'm learning js to work with node.js, and not to be a front-end developer (i'm tooooo lazy for front)
+
+- the next languages i like to learn are python and golang, but when? who know? `\_(o_0)_/`
+
+- i'm looking for help with finding miniprojects for practice, although i think when i learn more this will be solved  
+(but seriously: find some practice for beck-end is much harder than front)
+
+- i'm lazy to use shift key, "y" key (bothers me), ctrl key, f1..f12 keys. *But I will use them if I have to*
+
+- i'm not good at socializing, it's really hard :/
+
+- you can contact me via email if you want: mahdihashemiii939@gmail.com
+
+i guess that's it for now. have a nice day/night :)
