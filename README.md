@@ -23,6 +23,6 @@ i'm mahdi hashemi, 18 y.o, a guy who loves computer and here are some... about m
 
 - i'm not good at socializing, it's really hard :/
 
-- you can contact me via email if you want: mahdihashemiii939@gmail.com
+- you can contact me via email if you want: mahdihashemiii939 gmail com
 
 i guess that's it for now. have a nice day/night :)
