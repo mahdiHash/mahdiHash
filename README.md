@@ -17,7 +17,7 @@ i'm mahdi hashemi, 18 y.o, a guy who loves computer and here are some... about m
 
 - i'm lazy to use shift key, "y" key (bothers me), ctrl key, f1..f12 keys. *But I will use them if I have to*
 
-- i like math. not "love" it, just like it. it's cool
+- i like math. it's cool
 
 - i have a mate named computer. we're friends since i was a 8 year-old boy. we still have fun with each other :D
 
