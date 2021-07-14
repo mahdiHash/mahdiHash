@@ -1,8 +1,6 @@
 ### hey folks :D
 
-i'm mahdi hashemi, 18 y.o, a guy who loves computer and here are some... about me:
-
-- i'm now working on nothing special. maybe it's because i'm still learning to code
+i'm mahdi hashemi, 18 y.o, a guy who loves computer and... about me:
 
 - i'm really interested in open source projects and love to contribute to them :)
 
