@@ -10,8 +10,6 @@ i'm mahdi hashemi, 19 y.o, a guy who loves computer and... about me:
 
 - the next languages i like to learn are python and golang, but when? who knows? `\_(o_0)_/`
 
-- i'm lazy to use shift key, "y" key (bothers me), ctrl key, f1..f12 keys. *But I will use them if I have to*
-
 - i like math. it's cool
 
 - i have a mate named computer. we're friends since i was a 8 year-old boy. we still have fun with each other :D
