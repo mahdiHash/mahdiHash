@@ -1,6 +1,6 @@
 ### hey folks :D
 
-i'm mahdi hashemi, 19 y.o, a guy who loves computer and... about me:
+i'm mahdi hashemi, 19 y.o, a guy who loves computers and... about me:
 
 - i'm really interested in open source projects and love to contribute to them :)
 
