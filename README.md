@@ -12,7 +12,7 @@ i'm mahdi hashemi, 19 y.o, a guy who loves computers and... about me:
 
 - i like math. it's cool
 
-- i have a mate named computer. we're friends since i was a 8 year-old boy. we still have fun with each other :D
+- i have a mate named computer. we're friends since i was an 8 year-old boy. we still have fun with each other :D
 
 - you can contact me via email if you want: mahdihashemiii939 gmail com
 
