@@ -2,7 +2,7 @@
 
 i'm mahdi hashemi, 19 y.o, a guy who loves computers and... about me:
 
-- i'm really interested in open source projects and love to contribute to them :)
+- i'm really interested in open-source projects and love to contribute to them :)
 
 - the language i'm learning is **javascript**
 
