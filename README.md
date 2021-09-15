@@ -1,19 +1,19 @@
-### hey folks :D
+### Hey folks :D
 
-i'm mahdi hashemi, 19 y.o, a guy who loves computers and... about me:
+I'm mahdi hashemi, 19 y.o, a guy who loves computers and... about me:
 
-- i'm really interested in open-source projects and love to contribute to them :)
+- I'm really interested in open-source projects and love to contribute to them :)
 
-- the language i'm learning is **javascript**
+- The language i'm learning is **JavaScript**
 
-- i'm learning js to work with node.js, and not to be a front-end developer (i'm tooooo lazy for front)
+- I'm learning JS to work with node.js, and not to be a front-end developer (i'm tooooo lazy for front)
 
-- the next languages i like to learn are python and golang, but when? who knows? `\_(o_0)_/`
+- The next languages I like to learn are Python and Go, but when? who knows? `\_(o_0)_/`
 
-- i like math. it's cool
+- I like math. it's cool
 
-- i have a mate named computer. we're friends since i was an 8 year-old boy. we still have fun with each other :D
+- I have a mate named computer. We're friends since i was an 8 year-old boy. We still have fun with each other :D
 
-- you can contact me via email if you want: mahdihashemiii939 gmail com
+- You can contact me via email if you want: mahdihashemiii939 gmail com
 
-i guess that's it for now. have a nice day/night :)
+I guess that's it for now. Have a nice day/night :)
