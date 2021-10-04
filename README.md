@@ -6,9 +6,9 @@ I'm Mahdi Hashemi, 19 y.o, a guy who loves computers and... about me:
 
 - The language I'm learning is **JavaScript**
 
-- I'm learning JS to work with Node.js, and not to be a front-end developer (i'm tooooo lazy for front)
+- I'm learning JS to work with Node.js, and not to be a front-end developer (I'm tooooo lazy for front)
 
-- The next languages I like to learn are Python and Go, but when? who knows? `\_(o_0)_/`
+- The next languages I like to learn are Python and Go, but when? Who knows? `\_(o_0)_/`
 
 - I like math. It's cool
 
