@@ -18,4 +18,4 @@ I'm Mahdi Hashemi, 19 y.o, a guy who loves computers and... about me:
 
 - You can contact me via email if you want: mahdihashemiii939 gmail com.
 
-I guess that's it for now. Have a nice day/night :)
+I guess that's all for now. Have a nice day/night :)
