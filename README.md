@@ -14,6 +14,4 @@ I'm Mahdi Hashemi, 20 y.o, a guy who loves computers and... about me:
 
 - I have a mate named Computer. We're friends since I was an 8 year-old boy. We still have fun with each other :D
 
-- You can contact me via email if you want: mahdihashemiii939 gmail com.
-
 I guess that's all for now. Have a nice day/night :)
