@@ -4,9 +4,9 @@ I'm Mahdi Hashemi, 21 y.o, a guy who loves computers and... about me:
 
 - I'm really interested in open-source projects and love to contribute to them :)
 
-- I know JavaScript and I'm currently learning TypeScript,
+- I know JavaScript and TypeScript,
 
-- I'm learning JS and TS to work with Node.js and not to be a front-end developer (I'm tooooo lazy for front),
+- I use JS and TS to develop apps with Node.js and not to be a front-end developer (I'm tooooo lazy for front),
 
 - The languages I like to learn next are Python and Go, but when? Who knows? `\_(o_0)_/`,
 
